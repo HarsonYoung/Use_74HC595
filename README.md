@@ -4,8 +4,7 @@
 74HC595是一个8位串行输入、并行输出的位移缓存器。
 
 它的引脚定义<br>
-<img src="https://github.com/HarsonYoung/Use_74HC595/blob/master/%E5%BC%95%E8%84%9A.png"  width="300" height="250">
-<img src="https://github.com/HarsonYoung/Use_74HC595/blob/master/595.jpg"><br>
+Please Google
 
 
 DS：   接收串行信号
